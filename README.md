@@ -16,10 +16,10 @@
 <p align="left">
   
  
-<a href="https://www.leetcode.com/user2209b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2209b" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ikrsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikrsachin" height="30" width="40" /></a>
-<a href="https://twitter.com/ihrsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ihrsachin" height="30" width="40" /></a>
-<a href="https://instagram.com/ihrsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihrsachin" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kumarsubhash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2209b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subhash-kumar-9b84b921a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikrsachin" height="30" width="40" /></a>
+<a href="https://twitter.com/Subhash65831919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ihrsachin" height="30" width="40" /></a>
+<a href="https://instagram.com/invites/contact/?i=3mobk7owk32y&utm_content=5goqsfp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihrsachin" height="30" width="40" /></a>
 
 </p>
 
