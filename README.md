@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Subhash91134857?tab=repositories](https://github.com/Subhash91134857?tab=repositories)
 
-- 💬 Ask me about **www.linkedin.com/in/ikrsachin**
+- 💬 Ask me about **www.linkedin.com/in/subhash-kumar-9b84b921a**
 
-- 📫 How to reach me **rjsk.gaya@gmail.com**
+- 📫 How to reach me **subhashpanday58@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
